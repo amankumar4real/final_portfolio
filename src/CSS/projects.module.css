@@ -1,0 +1,21 @@
+
+.proj{
+    color: #000000;
+    font-family: "Open Sans'";
+    font-size: 38;
+    font-weight: bolder;
+}
+
+.proj_name{
+    color: #707070;
+    font-family: "Open Sans', sans-serif";
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+.bck{
+    background: #FFFFFF;
+background: -webkit-linear-gradient(bottom, #FFFFFF, #FFF8B3);
+background: -moz-linear-gradient(bottom, #FFFFFF, #FFF8B3);
+background: linear-gradient(to top, #FFFFFF, #FFF8B3);
+}
